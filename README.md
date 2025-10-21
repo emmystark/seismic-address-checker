@@ -35,3 +35,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # seismic-address-checker
+
+
+
+
+npm install next@latest react@latest react-dom@latest typescript @types/react @types/react-dom @types/node
+
+
+
+npm install react-activity-rings framer-motion
+npm install --save-dev @types/react-activity-rings
