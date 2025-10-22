@@ -23,7 +23,7 @@ export default function MetricsDashboard({ address }: MetricsDashboardProps) {
       transition={{ duration: 0.5 }}
       className="w-full max-w-2xl mx-auto space-y-8 p-6 bg-gray-900 rounded-xl shadow-lg"
     >
-      <h2 className="text-2xl font-bold text-white text-center">Analysis for {address}</h2>
+      <h2 className="lg:text-2xl text-lg font-bold text-white text-center">Analysis for: {address}</h2>
       
       <div className="space-y-4">
         <h3 className="text-xl text-gray-200">Activity Rings</h3>
